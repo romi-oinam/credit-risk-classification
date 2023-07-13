@@ -13,7 +13,7 @@ Two diffeent Logistic Regression models were created by using the original data 
 RESULT:
 
 Logistic Regression Model with Original Data
-
+![](Images/basOriginalData.jpg)
 
 
 Precision: The model was 100% precise in predicting healthy loans, while the model was only 87% precise in predicting high-risk loans.
