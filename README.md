@@ -14,21 +14,22 @@ Two diffeent Logistic Regression models were created by using the original data 
 
 # Logistic Regression Model with Original Data
 ![](Images/basOriginalData.jpg)
-![](Images/Images/basResampledData.jpg)
+![](Images/lrmOriginalData.jpg)
 
-Precision: The model was 100% precise in predicting healthy loans, while the model was only 87% precise in predicting high-risk loans.
-Accuracy: 94%
-Recall: The model had 100% recall in predicting healthy loans, but 89% recall in predicting high-risk loans.
+1. Precision: The model was 100% precise in predicting healthy loans, while the model was only 87% precise in predicting high-risk loans.
+2. Accuracy: 94%
+3. Recall: The model had 100% recall in predicting healthy loans, but 89% recall in predicting high-risk loans.
 
-Logistic Regression Model with Randomly Oversampled Data
+# Logistic Regression Model with Randomly Oversampled Data
+![](Images/basResampledData.jpg)
+![](Images/lrmResampledData.jpg)
 
 
+1. Precision: The model was 100% precise in predicting healthy loans, while the model was only 87% precise in predicting high-risk loans.
+2. Accuracy: 100%
+3. Recall: 100%
 
-Precision: The model was 100% precise in predicting healthy loans, while the model was only 87% precise in predicting high-risk loans.
-Accuracy: 100%
-Recall: 100%
-
-RESULT SUMMARY
+# RESULT SUMMARY
 
 The above study shows that, both models accurately predict healthy loans, they differ in their ability to predict high risk loans.
 
